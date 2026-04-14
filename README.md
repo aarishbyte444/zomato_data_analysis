@@ -1,2 +1,2 @@
 # zomato_data_analysis
-project1 
+This project focuses on analyzing Zomato’s restaurant dataset to uncover insights into customer preferences, restaurant ratings, cost distribution, and cuisine trends. Using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the analysis highlights patterns in dining behavior, explores correlations between variables, and provides visualizations that support data-driven decision-making for the food industry.
